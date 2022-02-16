@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BestOil\BestOil\bin\Debug\BestOil.exe.config
+C:\Users\User\source\repos\BestOil\BestOil\bin\Debug\BestOil.exe
+C:\Users\User\source\repos\BestOil\BestOil\bin\Debug\BestOil.pdb
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.Form1.resources
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.exe
+C:\Users\User\source\repos\BestOil\BestOil\obj\Debug\BestOil.pdb
